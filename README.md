@@ -1,5 +1,3 @@
-# MLOps Batch Job
-
 ## Overview
 
 This project implements a minimal MLOps-style batch pipeline:
